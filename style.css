@@ -106,7 +106,9 @@ main {
 
 
 
-
+section {
+    margin-top: 130px;
+}
 
 
 /* .....................about starts here................... */
@@ -122,6 +124,7 @@ main {
     margin-bottom: 30px;
     font-weight: 700;
     font-size: 35px;
+    margin-bottom: 50px;
 }
 
 
@@ -134,3 +137,31 @@ main {
     display: flex;
     justify-content: space-around;
 }
+
+/* ....................what I do starts here..................... */
+section {
+    margin-top: 130px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 24px;
+    margin-top: 80px;
+}
+
+.skill {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skill-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+/*....................... resume starts here........................ */
