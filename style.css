@@ -20,9 +20,16 @@
 }
 
 .btn-c {
-    width: 113px;
-    height: 27px;
+    color: #FD6E0A;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    border-color: #FD6E0A;
     padding: 18px 35px;
+    height: 64px;
+    /* width: 150px; */
+    background: white;
     border-radius: 5px;
 }
 
