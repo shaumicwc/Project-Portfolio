@@ -165,3 +165,72 @@ section {
 }
 
 /*....................... resume starts here........................ */
+.pera {
+    display: flex;
+    gap: 24px;
+}
+
+
+/* .resume-content {
+    display: flex;
+    gap: 24px;
+} */
+
+.resume-item {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume .title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-top: 10px;
+}
+
+.resume .sub-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+
+}
+
+.resume .description {
+    color: #757575;
+
+}
+
+.resume-btn {
+    margin-top: 50px;
+
+}
+
+/* ................contact start here.............. */
+
+
+
+.contact {
+    display: flex;
+    gap: 100px;
+    padding: 130px 200px;
+}
+
+.contact .section-title {
+    text-align: left;
+}
+
+.contact input,
+textarea {
+    margin: 24px;
+    width: 100%;
+    padding: 18px 30px;
+}
+
+input {
+    height: 64px;
+}
+
+.contact a {
+    text-decoration: none;
+}
